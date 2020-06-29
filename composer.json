@@ -1,0 +1,15 @@
+{
+    "name": "volicano/shopee-api",
+    "description": "shopee对接店铺订单信息",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Shopee\\": "src/"
+        }
+    }
+}
